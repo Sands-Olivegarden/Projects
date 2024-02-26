@@ -10,4 +10,4 @@ Tic_Tac/initialization.sh
 
 ######
 # Close the terminal
-# After this the 'hospital' command should work.
+# After this the 'tictac' command should work.
